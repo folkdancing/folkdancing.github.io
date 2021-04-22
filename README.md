@@ -1,5 +1,6 @@
-# folk-dancing
-Reed College Folk Dancing
+# TalibPierson.github.io
+
+Folk Dancing
 
 My priority is to create resources for students that supplement 
 the class. The website you have begun should have categories:
