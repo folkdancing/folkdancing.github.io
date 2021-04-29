@@ -1,4 +1,4 @@
-# TalibPierson.github.io
+# folkdancing.github.io
 
 Folk Dancing
 
