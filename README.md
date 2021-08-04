@@ -19,3 +19,5 @@ first category as a more useful resource for the students.
 I will write a general introduction to the class and introductions
 to each session, as well as, introductions to each of the dances,
 all of which you can critique.
+
+People working on this project will want to know how to use HTML, CSS, git, and sftp.
