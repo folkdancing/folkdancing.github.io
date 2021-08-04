@@ -98,12 +98,6 @@ code, kbd, pre, samp {
     font-size: 1em
 }
 
-hr {
-    box-sizing: content-box;
-    height: 0;
-    overflow: visible
-}
-
 button, input, select, textarea, optgroup {
     font: inherit;
     margin: 0
