@@ -7,10 +7,6 @@ html {
     box-sizing: inherit
 }
 
-html {
-    -webkit-text-size-adjust: 100%
-}
-
 body {
     margin: 0
 }
@@ -115,15 +111,6 @@ button, select {
     text-transform: none
 }
 
-button, [type=button], [type=reset], [type=submit] {
-    -webkit-appearance: button
-}
-
-button::-moz-focus-inner, [type=button]::-moz-focus-inner, [type=reset]::-moz-focus-inner, [type=submit]::-moz-focus-inner {
-    border-style: none;
-    padding: 0
-}
-
 fieldset {
     border: 1px solid #c0c0c0;
     margin: 0 2px;
@@ -146,22 +133,8 @@ textarea {
     padding: 0
 }
 
-[type=number]::-webkit-inner-spin-button, [type=number]::-webkit-outer-spin-button {
-    height: auto
-}
-
 [type=search] {
-    -webkit-appearance: textfield;
     outline-offset: -2px
-}
-
-[type=search]::-webkit-search-decoration {
-    -webkit-appearance: none
-}
-
-::-webkit-file-upload-button {
-    -webkit-appearance: button;
-    font: inherit
 }
 
 /* End extract */
