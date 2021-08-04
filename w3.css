@@ -119,6 +119,7 @@ fieldset {
 
 legend {
     color: inherit;
+    background-color: inherit;
     display: table;
     max-width: 100%;
     padding: 0;
