@@ -4,7 +4,7 @@ a {
 
 a:hover {
     background-color: #00f;
-    color: #fff
+    color: #fff;
 }
 
 .header {
@@ -62,8 +62,12 @@ a:hover {
     background-color: #f8f;
 }
 
-.row {
+.padding-16 {
     padding: 16px;
+}
+
+.underline {
+    text-decoration: underline;
 }
 
 .footer {
